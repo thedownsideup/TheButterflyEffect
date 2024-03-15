@@ -12,15 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
   m_Name: Readme
   m_EditorClassIdentifier: 
-  icon: {fileID: 2800000, guid: 7801804018a7dcf42abb827444e18660, type: 3}
+  icon: {fileID: 2800000, guid: 727a75301c3d24613a3ebcec4a24c2c8, type: 3}
   title: The Butterfly Effect
   sections:
   - heading: The Butterfly Effect Project
-    text: 'Created by Mahsa Eskandari (MAE) & Jamasb Samia'
+    text: Created by Mahsa Eskandari (MAE) & Jamasb Samia
     linkText: 
-    url: 
+    url:
   - heading:
     text: 'This Project is inspired by the movie: "The Butterfly Effect"'
-    linkText: 
+    linkText:
     url:
   loadedLayout: 1

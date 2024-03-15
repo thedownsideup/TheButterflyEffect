@@ -1,10 +1,5 @@
 {
-    "templatePinStates": [
-        {
-            "templateId": "Empty (Built-in)",
-            "isEnabled": false
-        }
-    ],
+    "templatePinStates": [],
     "dependencyTypeInfos": [
         {
             "userAdded": false,
